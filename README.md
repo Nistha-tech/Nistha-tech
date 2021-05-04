@@ -15,12 +15,17 @@
 <br />
 <h3> About Me  🚀 </h3>
 <p>
-  🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
+🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
 </p><p>
-  📎 In my free time I love to learn about latest technologies and work on my logic building skills.
+📎 In my free time I love to learn about latest technologies and work on my logic building skills.
 </p><p>
-  📚 Self Motivation + Commitment + Technology + Ideas + Team Player + Optimism - Motto of my life!
-</p><p>🌱 Enthusiast in Open Source, Web Development and Machine Learning.</p>
+📚 Self Motivation + Commitment + Technology + Ideas + Team Player + Optimism - Motto of my life!
+</p><p>
+🌱 Enthusiast in Open Source, Web Development and Machine Learning.</p>
+<p>
+🤔 Exploring newer technologies and developing software solutions and quick hacks.</p>
+<p>
+☕ Coffee can be the ultimate solution for any stress. Coffee <-> Code </p>
 <h3>🛠 Tech Stack</h3>
 
 
@@ -34,3 +39,7 @@
 
 
 </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nistha-tech&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/nistha-tech/github-readme-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nistha-tech&show_icons=true&locale=en&theme=radical" alt="nistha-tech" /></p>
+
