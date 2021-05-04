@@ -39,7 +39,7 @@
 
 
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nistha-tech&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/nistha-tech/github-readme-stats)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nistha-tech&show_icons=true&locale=en&theme=radical" alt="nistha-tech" /></p>
 
