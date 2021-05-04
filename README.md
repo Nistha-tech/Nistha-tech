@@ -1,4 +1,4 @@
-<h2> Hey there! 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Nistha!
 <h3> About Me  🚀 </h3>
 <p>
   🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
@@ -26,7 +26,7 @@
 <h3> Feel free to reach me at </h3>
 
 <p align="center">
-&nbsp;  <a href="https://www.linkedin.com/in/nistha-gupta/"><img src="https://www.google.com/search?q=linkedin+image&sxsrf=ALeKk02pMMiyiOfAxO8dtr81HNFWklSlVA:1620102181589&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjs6aH4lq_wAhXWT30KHUZWCZ8Q_AUoAXoECAEQAw&biw=1536&bih=754#imgrc=nYVyeltF3iZrnM"/></a>
-&nbsp;  <a href="https://twitter.com/NisthaGupta7"><img src="https://www.google.com/search?q=twitter+image&sxsrf=ALeKk018tMuZ-cnzeLkUJ-OaUVZZNGgIlg:1620102344042&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjund3Fl6_wAhU2lEsFHepZCiAQ_AUoAXoECAEQAw&biw=1536&bih=754#imgrc=hmDQk9fGbbztiM"/></a>
-&nbsp;  <a href="mailto:nisthagupta9@gmail.com"><img src="https://www.google.com/search?q=mail+image&tbm=isch&ved=2ahUKEwjBgs_5lq_wAhWr2nMBHSAuA04Q2-cCegQIABAA&oq=mail+image&gs_lcp=CgNpbWcQAzIECAAQQzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIAFCC7AVYgPAFYO3xBWgAcAB4AIABhgKIAd0GkgEFMC4xLjOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=KMyQYMHOGau1z7sPoNyM8AQ&bih=754&biw=1536#imgrc=abEIzpY0rnhYMM"/></a>
+&nbsp;  <a href="https://www.linkedin.com/in/nistha-gupta/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+&nbsp;  <a href="https://twitter.com/NisthaGupta7"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
+&nbsp;  <a href="mailto:nisthagupta9@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
 
