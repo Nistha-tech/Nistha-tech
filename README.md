@@ -26,7 +26,7 @@
 <h3> Feel free to reach me at </h3>
 
 <p align="center">
-&nbsp;  <a href="https://www.linkedin.com/in/nistha-gupta/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
-&nbsp;  <a href="https://twitter.com/NisthaGupta7"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
-&nbsp;  <a href="mailto:nisthagupta9@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
+&nbsp;  <a href="https://www.linkedin.com/in/nistha-gupta/"><img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+&nbsp;  <a href="https://twitter.com/NisthaGupta7"><img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
+&nbsp;  <a href="mailto:nisthagupta9@gmail.com"><img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
 
