@@ -31,7 +31,7 @@
 
 <br>
 
-- 💻  &nbsp; Data Structures & Algorithms | C++ | Java   
+- 💻  &nbsp; Data Structures & Algorithms | C++ | Java | Natural Language Processing (NLP)  
 - 🌐  &nbsp; HTML | CSS | JavaScript
 - 🐍  &nbsp; Machine Learning | Python | Jupyter | OpenCV
 - ☁  &nbsp; Operating System | Database | SQL
