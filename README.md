@@ -34,7 +34,7 @@
 - 💻  &nbsp; Data Structures & Algorithms | C++ | Java | Natural Language Processing (NLP)  
 - 🌐  &nbsp; HTML | CSS | JavaScript
 - 🐍  &nbsp; Machine Learning | Python | Jupyter | OpenCV
-- ☁  &nbsp; Operating System | Database | SQL
+- ☁  &nbsp; Microsoft Azure | Operating System | Database | SQL
 - 🔧  &nbsp; Visual Studio code | Sublime | PyCharm | Anaconda | Git | Github
 
 
