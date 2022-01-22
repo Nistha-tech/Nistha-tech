@@ -46,3 +46,6 @@
 <img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=Nistha-tech&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 <img width="470px" height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nistha-tech&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saumya1singh&label=Profile%20views&color=0e75b6&style=flat" alt="Nistha-tech" /> </p>
+
