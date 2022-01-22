@@ -11,8 +11,11 @@
 <a href="https://nisthagupta.medium.com">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-
 <br />
+
+<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=saumya1singh&label=Profile%20views&color=0e75b6&style=flat" alt="Nistha-tech" /> </p>
+<br/>
+
 <h3> About Me  🚀 </h3>
 <p>
 🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
@@ -43,10 +46,9 @@
 
 <p align="center">
 <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
-  <p> <img src="https://komarev.com/ghpvc/?username=saumya1singh&label=Profile%20views&color=0e75b6&style=flat" alt="Nistha-tech" /> </p>
-
-<img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=Nistha-tech&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 <img width="470px" height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nistha-tech&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+<img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=Nistha-tech&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
+
 </p>
 
 
