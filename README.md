@@ -12,9 +12,9 @@
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br />
-
+<p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumya1singh&label=Profile%20views&color=0e75b6&style=flat" alt="Nistha-tech" /> </p>
-
+</p>
 
 <h3> About Me  🚀 </h3>
 <p>
@@ -29,20 +29,19 @@
 🤔 Exploring newer technologies and developing software solutions and quick hacks.</p>
 <p>
 ☕ Coffee can be the ultimate solution for any stress. Coffee <-> Code </p>
+  
 <h3>🛠 Tech Stack</h3>
-
-
-<br>
-
+<p>
 - 💻  &nbsp; Data Structures & Algorithms | C++ | Java | Natural Language Processing (NLP)  
+  </p><p>
 - 🌐  &nbsp; HTML | CSS | JavaScript
+  </p><p>
 - 🐍  &nbsp; Machine Learning | Python | Jupyter | OpenCV
+  </p><p>
 - ☁  &nbsp; Microsoft Azure | Operating System | Database | SQL
+  </p><p>
 - 🔧  &nbsp; Visual Studio code | Sublime | PyCharm | Anaconda | Git | Github
-
-
-</br>
-
+  </p>
 
 <p align="center">
 <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
